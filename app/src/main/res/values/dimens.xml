@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_370dp" />
+    <dimen name="dimen_60dp" />
+    <dimen name="dimen_23sp" />
+    <dimen name="dimen_250dp" />
+    <dimen name="dimen_33dp" />
+    <dimen name="dimen_40sp" />
+    <dimen name="dimen_20sp" />
+    <dimen name="dimen_310dp" />
+    <dimen name="dimen_10dp" />
+    <dimen name="dimen_30dp" />
+    <dimen name="dimen_24sp" />
+    <dimen name="dimen_20dp" />
+    <dimen name="dimen_18sp" />
+</resources>

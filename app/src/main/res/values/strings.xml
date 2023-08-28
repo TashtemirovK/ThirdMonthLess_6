@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThirdMonthLess_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing" />
+    <string name="talk_me_down" />
+    <string name="blue_neighbourhood" />
+    <string name="song" />
+    <string name="number" />
+    <string name="singer" />
+    <string name="time" />
+</resources>
